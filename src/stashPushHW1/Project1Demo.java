@@ -2,8 +2,8 @@ package stashPushHW1;
 
 public class Project1Demo {
 
-	public void getInfo() {
+	public void multiply(int a, int b) {
 
-		System.out.println("Pushing code ...");
+		System.out.println(1*2);
 	}
 }
